@@ -1,0 +1,6 @@
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe.config
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\bin\Debug\TRES4 Numbers.pdb
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\obj\Debug\TRES4 Numbers.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\obj\Debug\TRES4 Numbers.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2\TRES4 Numbers\obj\Debug\TRES4 Numbers.pdb

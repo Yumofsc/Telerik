@@ -1,0 +1,5 @@
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

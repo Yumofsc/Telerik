@@ -1,0 +1,9 @@
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\bin\Debug\Problem 2 – Tribonacci Triangle.exe.config
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\bin\Debug\Problem 2 – Tribonacci Triangle.exe
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\bin\Debug\Problem 2 – Tribonacci Triangle.pdb
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\obj\Debug\Problem 2 – Tribonacci Triangle.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\obj\Debug\Problem 2 – Tribonacci Triangle.exe
+D:\Koce\Projects\ExamPractise\Problem 2 – Tribonacci Triangle\obj\Debug\Problem 2 – Tribonacci Triangle.pdb
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Tribonacci Triangle\bin\Debug\Problem 2 – Tribonacci Triangle.exe.config
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Tribonacci Triangle\obj\Debug\Problem 2 – Tribonacci Triangle.exe
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Tribonacci Triangle\obj\Debug\Problem 2 – Tribonacci Triangle.pdb

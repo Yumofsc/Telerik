@@ -1,0 +1,6 @@
+D:\Koce\Projects\ExamPractise\Next Date 2013\bin\Debug\Next Date 2013.exe.config
+D:\Koce\Projects\ExamPractise\Next Date 2013\bin\Debug\Next Date 2013.exe
+D:\Koce\Projects\ExamPractise\Next Date 2013\bin\Debug\Next Date 2013.pdb
+D:\Koce\Projects\ExamPractise\Next Date 2013\obj\Debug\Next Date 2013.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\ExamPractise\Next Date 2013\obj\Debug\Next Date 2013.exe
+D:\Koce\Projects\ExamPractise\Next Date 2013\obj\Debug\Next Date 2013.pdb

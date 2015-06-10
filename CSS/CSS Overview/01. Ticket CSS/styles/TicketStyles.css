@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #595959;
+    font-family: Arial;
+}
+
+h1 {
+    font-weight: normal;
+    color: #8f8d8d;
+}
+
+.firstCell {
+    font-weight: normal;
+    font-style: italic;
+    color: white;
+    text-align: left;
+    vertical-align: top;
+    padding-right: 15px;
+    padding-bottom: 8px;
+}
+
+table {
+    border-spacing: 10px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.yellowText {
+    color: #f5e882;
+}
+
+.grayText {
+    color: #8f8d8d;
+}
+
+#orange {
+    color: #ff9400;
+    font-weight: 600;
+}
+
+#red {
+    color: red;
+    font-weight: 600;
+}
+
+#greenDot {
+    width: 10px;
+    height: 10px;
+
+}

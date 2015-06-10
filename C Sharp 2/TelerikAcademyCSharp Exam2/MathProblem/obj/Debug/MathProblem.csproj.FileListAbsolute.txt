@@ -1,0 +1,6 @@
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\bin\Debug\MathProblem.exe.config
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\bin\Debug\MathProblem.exe
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\bin\Debug\MathProblem.pdb
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\obj\Debug\MathProblem.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\obj\Debug\MathProblem.exe
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\MathProblem\obj\Debug\MathProblem.pdb

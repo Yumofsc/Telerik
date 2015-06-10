@@ -1,0 +1,53 @@
+#wrapper {
+    width: 960px;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    
+}
+
+
+.content {
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    display: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: linear-gradient(#fdffff,#a1d8ef);
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.menu {
+     list-style-type: none;
+}
+
+.menu>li {
+    position:relative;
+    display: inline;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(#25dcf2,#7797e3);
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.menu>li:hover {
+    width: 105px;
+    height: 105px;
+}
+
+.menu li a:hover + .content {
+    display: block;
+    z-index: 100;
+}
+
+.bold {
+    font-weight: bold;
+}

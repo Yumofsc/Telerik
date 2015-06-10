@@ -1,0 +1,9 @@
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.exe.config
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.exe
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.pdb
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.exe
+D:\Koce\Projects\ExamPractise\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.pdb
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Nightmare on Code Street\bin\Debug\Problem 2 – Nightmare on Code Street.exe.config
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.exe
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem 2 – Nightmare on Code Street\obj\Debug\Problem 2 – Nightmare on Code Street.pdb

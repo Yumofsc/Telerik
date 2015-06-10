@@ -1,0 +1,1 @@
+D:\Koce\Projects\C Sharp 2\TelerikAcademyCSharp Exam2\BishopPathFinder\bin\Debug\BishopPathFinder.exe.config

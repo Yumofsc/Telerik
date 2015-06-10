@@ -1,0 +1,9 @@
+D:\Koce\Projects\ExamPractise\Problem1 369\bin\Debug\Problem1 369.exe.config
+D:\Koce\Projects\ExamPractise\Problem1 369\bin\Debug\Problem1 369.exe
+D:\Koce\Projects\ExamPractise\Problem1 369\bin\Debug\Problem1 369.pdb
+D:\Koce\Projects\ExamPractise\Problem1 369\obj\Debug\0.1 Problem1 369.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\ExamPractise\Problem1 369\obj\Debug\Problem1 369.exe
+D:\Koce\Projects\ExamPractise\Problem1 369\obj\Debug\Problem1 369.pdb
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem1 369\bin\Debug\Problem1 369.exe.config
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem1 369\obj\Debug\Problem1 369.exe
+D:\Koce\Projects\C Sharp 1\ExamPractise\Problem1 369\obj\Debug\Problem1 369.pdb

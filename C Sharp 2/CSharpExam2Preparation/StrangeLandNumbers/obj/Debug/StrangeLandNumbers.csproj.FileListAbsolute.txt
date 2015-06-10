@@ -1,0 +1,9 @@
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe.config
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.pdb
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.pdb
+D:\Koce\Projects\C Sharp 2\CSharpExam2\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe.config
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.pdb

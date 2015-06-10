@@ -1,0 +1,3 @@
+C# is a Programming language
+.NET it's Framework
+C# is a programming language, which uses the framework .NET.

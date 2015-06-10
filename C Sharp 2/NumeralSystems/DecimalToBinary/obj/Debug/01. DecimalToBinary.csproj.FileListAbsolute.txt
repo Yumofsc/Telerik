@@ -1,0 +1,6 @@
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

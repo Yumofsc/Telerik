@@ -1,0 +1,1 @@
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\PointInsideCircleAndOutsideRectangle\bin\Debug\PointInsideCircleAndOutsideRectangle.exe.config

@@ -1,0 +1,6 @@
+D:\Koce\Projects\C Sharp 2\CSharpExam2\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+D:\Koce\Projects\C Sharp 2\CSharpExam2\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+D:\Koce\Projects\C Sharp 2\CSharpExam2Preparation\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

@@ -1,0 +1,6 @@
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\bin\Notebook Store.dll.config
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\bin\Notebook Store.dll
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\bin\Notebook Store.pdb
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\obj\Debug\Notebook Store.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\obj\Debug\Notebook Store.dll
+D:\Koce\Projects\HTML\HTML Forms and Frames\Notebook Store\obj\Debug\Notebook Store.pdb

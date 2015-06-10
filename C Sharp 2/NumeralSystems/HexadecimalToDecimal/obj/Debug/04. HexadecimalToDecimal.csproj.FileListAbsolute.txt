@@ -1,0 +1,3 @@
+D:\Koce\Projects\C Sharp 2\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+D:\Koce\Projects\C Sharp 2\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

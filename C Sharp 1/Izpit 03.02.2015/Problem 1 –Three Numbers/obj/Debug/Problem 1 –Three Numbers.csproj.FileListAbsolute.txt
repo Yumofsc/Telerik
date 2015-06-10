@@ -1,0 +1,9 @@
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\bin\Debug\Problem 1 –Three Numbers.exe.config
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\bin\Debug\Problem 1 –Three Numbers.exe
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\bin\Debug\Problem 1 –Three Numbers.pdb
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\obj\Debug\Problem 1 –Three Numbers.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\obj\Debug\Problem 1 –Three Numbers.exe
+D:\Koce\Projects\Izpit 03.02.2015\Problem 1 –Three Numbers\obj\Debug\Problem 1 –Three Numbers.pdb
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 1 –Three Numbers\bin\Debug\Problem 1 –Three Numbers.exe.config
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 1 –Three Numbers\obj\Debug\Problem 1 –Three Numbers.exe
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 1 –Three Numbers\obj\Debug\Problem 1 –Three Numbers.pdb

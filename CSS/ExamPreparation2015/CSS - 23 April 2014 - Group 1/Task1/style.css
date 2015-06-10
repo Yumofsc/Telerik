@@ -1,0 +1,88 @@
+html, body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    padding: 3px;
+    background-color: background: #fbfaf5; /* Old browsers */
+    background: -moz-linear-gradient(top, #fbfaf5 0%, #fbfaf5 17%, #f6f5e9 33%, #f6f5e9 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fbfaf5), color-stop(17%,#fbfaf5), color-stop(33%,#f6f5e9), color-stop(100%,#f6f5e9)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #fbfaf5 0%,#fbfaf5 17%,#f6f5e9 33%,#f6f5e9 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #fbfaf5 0%,#fbfaf5 17%,#f6f5e9 33%,#f6f5e9 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #fbfaf5 0%,#fbfaf5 17%,#f6f5e9 33%,#f6f5e9 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #fbfaf5 0%,#fbfaf5 17%,#f6f5e9 33%,#f6f5e9 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfaf5', endColorstr='#f6f5e9',GradientType=0 ); /* IE6-9 */
+    margin: 0 5px 0;
+}
+
+    header h1 {
+        text-transform: uppercase;
+        font-size: 16px;
+        color: #5e6a6a;
+        font-weight: bold;
+        float: left;
+        padding-top: 5px;
+    }
+
+nav {
+}
+
+    nav ul {
+        list-style-type: none;
+        color: #5e6a6a;
+        margin-left: 650px;
+    }
+
+        nav ul li {
+            float: none;
+            margin: 5px;
+            display: inline;
+        }
+
+#searchBar {
+    font-size: 14px;
+    background-color: black;
+    color: #72695b;
+    margin: 0 5px 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#archives {
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+#search {
+    float: left;
+    margin-left: 630px;
+    padding-top: 15px;
+}
+
+#content h1 {
+    font-size: 24px;
+    color: #72695b;
+}
+
+article {
+    font-size: 14px;
+    color: #72695b;
+}
+
+body {
+    background-color: #eef3fa;
+}

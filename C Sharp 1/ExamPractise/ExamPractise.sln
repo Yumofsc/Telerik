@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.1 Problem1 369", "Problem1 369\0.1 Problem1 369.csproj", "{B481EE11-A829-48E1-9CEE-39F1A3DD5381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.2 Problem 2  The Horror", "Problem 2  The Horror\0.2 Problem 2  The Horror.csproj", "{F6FE6A78-F1D2-4FEF-91A0-B0092149A4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next Date 2013", "Next Date 2013\Next Date 2013.csproj", "{7B7E9660-68A4-42B2-B33E-755461D137C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 Age after 10 Years", "..\IntroProgrammingHomework\15 Age after 10 Years\15 Age after 10 Years.csproj", "{7502EF14-4ABC-4AE1-BE5C-2C70B9609AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. FibonacciNumbers", "..\ConsoleInputOutput\FibonacciNumbers\10. FibonacciNumbers.csproj", "{E95F5380-D0AD-4CFB-8005-4D3C6DEFBE93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 – Tribonacci Triangle", "Problem 2 – Tribonacci Triangle\Problem 2 – Tribonacci Triangle.csproj", "{2B587A56-15CE-4B67-ACB5-96C124466BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 – Nightmare on Code Street", "Problem 2 – Nightmare on Code Street\Problem 2 – Nightmare on Code Street.csproj", "{D2851E89-B7AE-4A95-AC8F-5E19F0DF779A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B481EE11-A829-48E1-9CEE-39F1A3DD5381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B481EE11-A829-48E1-9CEE-39F1A3DD5381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B481EE11-A829-48E1-9CEE-39F1A3DD5381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B481EE11-A829-48E1-9CEE-39F1A3DD5381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FE6A78-F1D2-4FEF-91A0-B0092149A4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FE6A78-F1D2-4FEF-91A0-B0092149A4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FE6A78-F1D2-4FEF-91A0-B0092149A4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FE6A78-F1D2-4FEF-91A0-B0092149A4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7E9660-68A4-42B2-B33E-755461D137C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7E9660-68A4-42B2-B33E-755461D137C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7E9660-68A4-42B2-B33E-755461D137C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7E9660-68A4-42B2-B33E-755461D137C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7502EF14-4ABC-4AE1-BE5C-2C70B9609AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7502EF14-4ABC-4AE1-BE5C-2C70B9609AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7502EF14-4ABC-4AE1-BE5C-2C70B9609AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7502EF14-4ABC-4AE1-BE5C-2C70B9609AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95F5380-D0AD-4CFB-8005-4D3C6DEFBE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95F5380-D0AD-4CFB-8005-4D3C6DEFBE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95F5380-D0AD-4CFB-8005-4D3C6DEFBE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95F5380-D0AD-4CFB-8005-4D3C6DEFBE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B587A56-15CE-4B67-ACB5-96C124466BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B587A56-15CE-4B67-ACB5-96C124466BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B587A56-15CE-4B67-ACB5-96C124466BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B587A56-15CE-4B67-ACB5-96C124466BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2851E89-B7AE-4A95-AC8F-5E19F0DF779A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2851E89-B7AE-4A95-AC8F-5E19F0DF779A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2851E89-B7AE-4A95-AC8F-5E19F0DF779A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2851E89-B7AE-4A95-AC8F-5E19F0DF779A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

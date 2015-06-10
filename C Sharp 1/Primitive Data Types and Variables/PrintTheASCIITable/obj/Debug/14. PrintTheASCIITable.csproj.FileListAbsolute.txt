@@ -1,0 +1,1 @@
+D:\Koce\Projects\Primitive Data Types and Variables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config

@@ -1,0 +1,1 @@
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config

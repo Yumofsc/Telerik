@@ -1,0 +1,5 @@
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalKSum\bin\Debug\MaximalKSum.pdb
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+D:\Koce\Projects\C Sharp 2\Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb

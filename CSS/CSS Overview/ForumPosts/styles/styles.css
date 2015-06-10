@@ -1,0 +1,52 @@
+﻿body {
+    font-family: "Times New Roman";
+    background-color: #a9a9a9
+}
+
+body>header>h1 {
+    font-size: 70px;
+    color: #fafad1;
+    text-align:center;
+}
+ul {
+   list-style-type: none;
+   text-align: center;
+}
+
+li a {
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.current {
+    background-color:#d3d3d3
+}
+
+ul :nth-child(4) {
+    text-decoration: underline;
+}
+
+article > header > h1 {
+    font-size: 38px;
+    color: #fafad1;
+}
+
+p {
+    font-size: 22px;
+}
+
+footer p {
+    font-size: 18px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: black;
+}
+
+body>footer {
+    font-size: 24px;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+#wrapper {
+    width: 960px;
+    font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+
+.menu {
+    list-style-type: none;
+    display: inline;
+}
+
+    .menu li {
+        border: 10px solid gray;
+        
+        margin: 10px;
+    }
+
+img {
+    width: 100px;
+    height: 80px;
+}

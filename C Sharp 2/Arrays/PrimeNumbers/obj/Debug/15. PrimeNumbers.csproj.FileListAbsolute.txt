@@ -1,0 +1,5 @@
+D:\Koce\Projects\C Sharp 2\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Koce\Projects\C Sharp 2\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Koce\Projects\C Sharp 2\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Koce\Projects\C Sharp 2\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Koce\Projects\C Sharp 2\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

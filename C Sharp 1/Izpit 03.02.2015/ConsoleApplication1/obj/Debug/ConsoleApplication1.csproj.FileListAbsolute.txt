@@ -1,0 +1,6 @@
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Koce\Projects\Izpit 03.02.2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

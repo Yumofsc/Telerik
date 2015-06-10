@@ -1,0 +1,1 @@
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config

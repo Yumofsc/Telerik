@@ -1,0 +1,5 @@
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

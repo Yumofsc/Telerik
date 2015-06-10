@@ -1,0 +1,6 @@
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\bin\Debug\Problem 2  The Horror.exe.config
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\bin\Debug\Problem 2  The Horror.exe
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\bin\Debug\Problem 2  The Horror.pdb
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\obj\Debug\Problem 2  The Horror.exe
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\obj\Debug\Problem 2  The Horror.pdb
+D:\Koce\Projects\ExamPractise\Problem 2  The Horror\obj\Debug\0.2 Problem 2  The Horror.csprojResolveAssemblyReference.cache

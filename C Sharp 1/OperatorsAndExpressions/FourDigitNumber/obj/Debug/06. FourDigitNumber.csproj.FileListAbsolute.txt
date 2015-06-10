@@ -1,0 +1,5 @@
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\Koce\Projects\C Sharp 1\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

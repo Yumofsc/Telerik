@@ -1,0 +1,12 @@
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe.config
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.pdb
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.exe
+D:\Koce\Projects\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.pdb
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe.config
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.exe
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.pdb
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.exe
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\bin\Debug\Problem 2 – Decoding.pdb
+D:\Koce\Projects\C Sharp 1\Izpit 03.02.2015\Problem 2 – Decoding\obj\Debug\Problem 2 – Decoding.csprojResolveAssemblyReference.cache

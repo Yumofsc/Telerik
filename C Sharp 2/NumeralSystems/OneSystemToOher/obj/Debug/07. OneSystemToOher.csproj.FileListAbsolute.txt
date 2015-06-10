@@ -1,0 +1,6 @@
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\bin\Debug\OneSystemToOher.exe.config
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\obj\Debug\07. OneSystemToOher.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\bin\Debug\OneSystemToOher.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\bin\Debug\OneSystemToOher.pdb
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\obj\Debug\OneSystemToOher.exe
+D:\Koce\Projects\C Sharp 2\NumeralSystems\OneSystemToOher\obj\Debug\OneSystemToOher.pdb
