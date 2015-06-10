@@ -1,0 +1,9 @@
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\obj\Debug\10. FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+D:\Koce\Projects\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
+D:\Koce\Projects\C Sharp 1\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+D:\Koce\Projects\C Sharp 1\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+D:\Koce\Projects\C Sharp 1\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

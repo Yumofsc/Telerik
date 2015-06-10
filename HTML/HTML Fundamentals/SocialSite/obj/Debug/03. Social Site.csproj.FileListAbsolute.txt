@@ -1,0 +1,6 @@
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\bin\SocialSite.dll.config
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\bin\SocialSite.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\bin\SocialSite.pdb
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\obj\Debug\03. Social Site.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\obj\Debug\SocialSite.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\SocialSite\obj\Debug\SocialSite.pdb

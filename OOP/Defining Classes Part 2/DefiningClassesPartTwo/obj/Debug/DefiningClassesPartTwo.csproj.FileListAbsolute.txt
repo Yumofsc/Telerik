@@ -1,0 +1,12 @@
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe.config
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.csprojResolveAssemblyReference.cache
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.pdb
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.exe
+c:\users\yumo\documents\visual studio 2013\Projects\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.pdb
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe.config
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.exe
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.pdb
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.exe
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\bin\Debug\DefiningClassesPartTwo.pdb
+D:\Koce\Projects\OOP\Defining Classes Part 2\DefiningClassesPartTwo\obj\Debug\DefiningClassesPartTwo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Koce\Projects\HTML\HTML Fundamentals\HTML Fundamentals\bin\HTML Fundamentals.dll.config
+D:\Koce\Projects\HTML\HTML Fundamentals\HTML Fundamentals\bin\HTML Fundamentals.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\HTML Fundamentals\bin\HTML Fundamentals.pdb
+D:\Koce\Projects\HTML\HTML Fundamentals\HTML Fundamentals\obj\Debug\HTML Fundamentals.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\HTML Fundamentals\obj\Debug\HTML Fundamentals.pdb

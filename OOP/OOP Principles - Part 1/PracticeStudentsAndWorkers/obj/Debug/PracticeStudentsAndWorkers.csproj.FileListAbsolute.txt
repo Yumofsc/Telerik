@@ -1,0 +1,6 @@
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\bin\Debug\PracticeStudentsAndWorkers.exe.config
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\bin\Debug\PracticeStudentsAndWorkers.exe
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\bin\Debug\PracticeStudentsAndWorkers.pdb
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\obj\Debug\PracticeStudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\obj\Debug\PracticeStudentsAndWorkers.exe
+D:\Koce\Projects\OOP\OOP Principles - Part 1\PracticeStudentsAndWorkers\obj\Debug\PracticeStudentsAndWorkers.pdb

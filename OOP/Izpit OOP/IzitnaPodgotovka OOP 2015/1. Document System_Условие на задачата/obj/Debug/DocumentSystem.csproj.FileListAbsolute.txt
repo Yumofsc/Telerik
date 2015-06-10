@@ -1,0 +1,5 @@
+C:\Users\Yumo\Desktop\IzitnaPodgotovka OOP 2015\1. Document System_Условие на задачата\bin\Debug\DocumentSystem.exe
+C:\Users\Yumo\Desktop\IzitnaPodgotovka OOP 2015\1. Document System_Условие на задачата\bin\Debug\DocumentSystem.pdb
+C:\Users\Yumo\Desktop\IzitnaPodgotovka OOP 2015\1. Document System_Условие на задачата\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Yumo\Desktop\IzitnaPodgotovka OOP 2015\1. Document System_Условие на задачата\obj\Debug\DocumentSystem.exe
+C:\Users\Yumo\Desktop\IzitnaPodgotovka OOP 2015\1. Document System_Условие на задачата\obj\Debug\DocumentSystem.pdb

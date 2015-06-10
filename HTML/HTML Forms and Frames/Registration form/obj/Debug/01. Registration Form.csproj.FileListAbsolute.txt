@@ -1,0 +1,5 @@
+D:\Koce\Projects\HTML\HTML Forms and Frames\Registration form\bin\Registration form.dll.config
+D:\Koce\Projects\HTML\HTML Forms and Frames\Registration form\bin\Registration form.dll
+D:\Koce\Projects\HTML\HTML Forms and Frames\Registration form\bin\Registration form.pdb
+D:\Koce\Projects\HTML\HTML Forms and Frames\Registration form\obj\Debug\Registration form.dll
+D:\Koce\Projects\HTML\HTML Forms and Frames\Registration form\obj\Debug\Registration form.pdb

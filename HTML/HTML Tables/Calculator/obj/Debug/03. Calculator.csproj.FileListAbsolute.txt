@@ -1,0 +1,6 @@
+D:\Koce\Projects\HTML\HTML Tables\Calculator\bin\Calculator.dll.config
+D:\Koce\Projects\HTML\HTML Tables\Calculator\bin\Calculator.dll
+D:\Koce\Projects\HTML\HTML Tables\Calculator\bin\Calculator.pdb
+D:\Koce\Projects\HTML\HTML Tables\Calculator\obj\Debug\03. Calculator.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\HTML\HTML Tables\Calculator\obj\Debug\Calculator.dll
+D:\Koce\Projects\HTML\HTML Tables\Calculator\obj\Debug\Calculator.pdb

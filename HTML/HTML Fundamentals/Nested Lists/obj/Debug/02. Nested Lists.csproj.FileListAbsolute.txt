@@ -1,0 +1,6 @@
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\bin\Nested Lists.dll.config
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\bin\Nested Lists.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\bin\Nested Lists.pdb
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\obj\Debug\02. Nested Lists.csprojResolveAssemblyReference.cache
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\obj\Debug\Nested Lists.dll
+D:\Koce\Projects\HTML\HTML Fundamentals\Nested Lists\obj\Debug\Nested Lists.pdb

@@ -1,0 +1,5 @@
+D:\Koce\Projects\OOP\OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+D:\Koce\Projects\OOP\OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+D:\Koce\Projects\OOP\OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+D:\Koce\Projects\OOP\OOP Principles - Part 1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+D:\Koce\Projects\OOP\OOP Principles - Part 1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb
